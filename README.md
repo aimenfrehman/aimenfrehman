@@ -35,8 +35,7 @@ Welcome to my GitHub! I’m Aimen Faiz Rehman, a Data Analyst with a strong pass
 
 📫 How to reach me:
 
--Email: aimenfrehman@outlook.com
--LinkedIn: https://www.linkedin.com/in/aimen-faiz-rehman/
+-Email: aimenfrehman@outlook.com | LinkedIn: https://www.linkedin.com/in/aimen-faiz-rehman/
 
 😄 Pronouns:
 She/Her
