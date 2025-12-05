@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m Aimen Faiz Rehman, a Data Scientist with a focus on 
 
 I’m particularly interested in risk and health prediction, and I enjoy applying statistical analysis and building models to solve real-world healthcare problems. My current work at TReNDS Research Center involves:
 
-Performing difference analyses
+-Performing difference analyses
 
 -Interpreting academic papers to draft logical arguments
 
